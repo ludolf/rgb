@@ -1,0 +1,42 @@
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    margin: 2rem;
+    text-align: center;
+}
+div, textarea, button {
+    font-size: 2rem;
+}
+div {
+    margin: 0.2rem 0;
+}
+textarea, button {
+    background-color: lightgray;
+    border-radius: 1em;
+    border: 0.5rem solid gray;
+}
+textarea {
+    text-align: center;
+    letter-spacing: 0.3em;
+    padding: 1em;
+}
+button {
+    background-color: gray;
+    color: white;
+    font-size: 3rem;
+    padding: 0 0.5em;
+    cursor: pointer;
+}
+
+table {
+    margin-top: 1rem;
+    border-collapse: collapse;
+    border: 0.5rem solid gray;
+}
+td {
+    width: 5rem;
+    height: 5rem;
+    border: 1px solid gray;
+}
