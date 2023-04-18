@@ -36,6 +36,7 @@ table {
     margin-top: 1rem;
     border-collapse: collapse;
     border: 0.5rem solid gray;
+    background-color: lightgray;
 }
 td {
     width: 5rem;
